@@ -37,7 +37,6 @@ I'm a passionate full-stack developer and AI enthusiast with hands-on experience
 - **[House](https://github.com/gvjahnavi23/House)** - Python-based analysis project
 
 ### Full-Stack Development
-- **[store-associate-asst](https://github.com/gvjahnavi23/store-associate-asst)** - Agent memory showcase project
 - **[dhan-ui](https://github.com/navnredy/dhan-ui)** - Frontend application
 - **[react-practice](https://github.com/gvjahnavi23/react-practice)** - React learning and practice projects
 
