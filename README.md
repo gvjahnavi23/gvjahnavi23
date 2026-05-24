@@ -14,7 +14,6 @@ I'm a passionate full-stack developer and AI enthusiast with hands-on experience
 ### Languages
 - **Python** - Data structures, DSA, ML projects, backend services
 - **JavaScript** - React, web development
-- **TypeScript** - Type-safe web applications
 - **HTML/CSS** - Frontend design and styling
 
 ### Frontend Technologies
@@ -39,7 +38,7 @@ I'm a passionate full-stack developer and AI enthusiast with hands-on experience
 
 ### Full-Stack Development
 - **[store-associate-asst](https://github.com/gvjahnavi23/store-associate-asst)** - Agent memory showcase project
-- **[dhan-ui](https://github.com/navnredy/dhan-ui)** - TypeScript-based frontend application
+- **[dhan-ui](https://github.com/navnredy/dhan-ui)** - Frontend application
 - **[react-practice](https://github.com/gvjahnavi23/react-practice)** - React learning and practice projects
 
 ### Websites & Blogs
@@ -57,7 +56,7 @@ I'm a passionate full-stack developer and AI enthusiast with hands-on experience
 
 | Category | Skills |
 |----------|--------|
-| **Languages** | Python, JavaScript, TypeScript, HTML/CSS |
+| **Languages** | Python, JavaScript, HTML/CSS |
 | **Frontend** | React, JavaScript/ES6+ |
 | **Backend** | Python Services, REST APIs |
 | **AI/ML** | RAG Systems, Data Science, LLM Integration |
@@ -66,7 +65,7 @@ I'm a passionate full-stack developer and AI enthusiast with hands-on experience
 ## 🎓 Learning Journey
 
 - Data Structures and Algorithms (Python)
-- Full-Stack Web Development (React, JavaScript, TypeScript)
+- Full-Stack Web Development (React, JavaScript)
 - Machine Learning and AI Integration
 - Retrieval-Augmented Generation (RAG) Systems
 - Backend Service Development
